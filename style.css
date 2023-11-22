@@ -23,7 +23,7 @@
 /* printnumero */
 
 header {
-    background-image: url(./imagens/mobile.svg);
+    background-image: url(./imagens/img.png);
     background-size: cover;
     height: 8.375rem;
 
@@ -154,33 +154,33 @@ main {
         max-width: 24rem;
         padding: 0;
     }
-}
+    
 
-.conteudo{
-    width:100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
+    .conteudo{
+        width:100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 
-.bg-desktop {
+    .bg-desktop {
     display: block;
     width: 100%;
-}
+    }
 
-.bg-desktop img {
+    .bg-desktop img {
    display: block;
    width: 100%; 
    height: 100%;
-}
+    }
 
-.descricao h1 {
+    .descricao h1 {
     font-size: 2.25rem;
-}
+    }
 
 
-.descricao p {
+    .descricao p {
     font-size: 1rem;
+    }
 }
-
 /* nome da cor, rgb, rgba, hex, hsl, hwb */
